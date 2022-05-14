@@ -15,7 +15,7 @@ Here are the points discussed in today's Task-5 meeting session:
 Sentiment analysis could be integrated with Rasa
 Inbuilt chatbot
 Parts to focus on Rasa Chatbot:
-1. Intents
+1. [Intents](https://www.youtube.com/watch?v=JOf6CNJUzEo)
 2. Stories
 3. Responses
 4. Actions
